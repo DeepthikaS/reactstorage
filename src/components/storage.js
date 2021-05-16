@@ -1,6 +1,5 @@
 import React from 'react'
 
-
 class Storage extends React.Component{
     constructor(){
         super()
